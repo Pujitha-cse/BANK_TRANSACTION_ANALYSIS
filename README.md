@@ -30,7 +30,7 @@ The Bank Transaction Analysis project is designed to provide insights into custo
 
 # The repository is structured as follows
 
-•	BTA_CCSH.ipynb: Google Colab containing the code and analysis for the Bank Transaction Analysis project.
+•	BTA_CCSH.ipynb: Jupyter Notebook containing the code and analysis for the Bank Transaction Analysis project.
 
 •	data: Directory containing the datasets used for the analysis.
 
@@ -42,7 +42,7 @@ The Bank Transaction Analysis project is designed to provide insights into custo
 
 Load the Data: Ensure the dataset is placed in the data/ directory.
 
-Run the Analysis: Open the Google Colab BTA_CCSH.ipynb to run the analysis.
+Run the Analysis: Open the Jupyter Notebook BTA_CCSH.ipynb to run the analysis.
 
 Explore the Results: The notebook includes detailed explanations and visualizations to help understand customer spending behaviors.
 
