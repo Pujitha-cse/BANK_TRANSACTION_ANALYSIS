@@ -34,7 +34,7 @@ The Bank Transaction Analysis project is designed to provide insights into custo
 
 •	data: Directory containing the datasets used for the analysis.
 
-•	docs: Documentation and reports generated from the analysis.
+•	docs(BANK TRANSACTION ANALYSIS - INTRAINTECH): Documentation and reports generated from the analysis.
 
 •	README.md: Overview of the project, including objectives, structure, and usage instructions.
 
