@@ -27,17 +27,6 @@ The Bank Transaction Analysis project is designed to provide insights into custo
 
 • Matplotlib & Seaborn: Libraries for data visualization, used to create insightful charts and graphs.
 
-
-# The repository is structured as follows
-
-•	BTA_CCSH.ipynb: Jupyter Notebook containing the code and analysis for the Bank Transaction Analysis project.
-
-•	data: Directory containing the datasets used for the analysis.
-
-•	docs(BANK TRANSACTION ANALYSIS - INTRAINTECH): Documentation and reports generated from the analysis.
-
-•	README.md: Overview of the project, including objectives, structure, and usage instructions.
-
 # Getting Started
 
 Load the Data: Ensure the dataset is placed in the data/ directory.
