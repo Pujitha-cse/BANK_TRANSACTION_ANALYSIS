@@ -34,6 +34,7 @@ Load the Data: Ensure the dataset is placed in the data/ directory.
 Run the Analysis: Open the Jupyter Notebook BTA_CCSH.ipynb to run the analysis.
 
 Explore the Results: The notebook includes detailed explanations and visualizations to help understand customer spending behaviors.
+Explore the Power BI Dashboard.
 
 # Contact
 If you have any questions or feedback, please feel free to reach out via pujithajonnalagadda.4444@gmail.com.
